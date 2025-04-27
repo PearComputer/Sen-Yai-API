@@ -17,6 +17,6 @@ Then, host the server with PHP (replace ```yourfolder``` with the actual folder 
 cd yourfolder
 php -S 127.0.0.1:8000 -t .
 ```
-Once you do that, test it with this Scratch code (you can use Windows if you're a masochist, but this PHP server is designed for *NIX systems, especially macOS, but you are free to fork the code and modify the Scratch example to your needs as long as you follow the API schema):
+Once you do that, test it with this Scratch code (you can use Windows if you're a masochist, but this PHP server is designed for *NIX systems, especially macOS, but you are free to fork the code and modify the Scratch example to your needs as long as you follow the API schema, but make sure to provide and/or change the sounds):
 
 <img src="https://raw.githubusercontent.com/PearComputer/Sen-Yai-API/main/senyai-api-test.png" width="200" />
